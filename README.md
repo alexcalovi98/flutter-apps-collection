@@ -9,8 +9,6 @@ The app had no real function and did nothing more than display the fixed screen,
 
 <img src="resources/iam_rich.png" width="200">
 
-&nbsp;
-
 ## 2. I Am Poor App
 
  The I Am Rich App, but my custom poor version
