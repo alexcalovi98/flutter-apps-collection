@@ -8,3 +8,11 @@ A collection of Flutter apps developed during The App Brevery course
 The app had no real function and did nothing more than display the fixed screen, so it was not possible to use it for anything other than viewing the "I Am Rich" label and diamond. Despite the app's lack of real purpose, it was downloaded by a handful of users, some of whom claimed that they purchased it simply to show off their wealth and status. The app was eventually removed from the App Store by Apple after only a day of availability.
 
 <img src="resources/iam_rich.png" width="200">
+
+&nbsp;
+
+## 2. I Am Poor App
+
+ The I Am Rich App, but my custom poor version
+
+<img src="resources/iam_poor.png" width="200">
