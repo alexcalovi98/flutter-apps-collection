@@ -11,6 +11,12 @@ The app had no real function and did nothing more than display the fixed screen,
 
 ## 2. I Am Poor App
 
- The I Am Rich App, but my custom poor version
+ The I Am Rich App, but my custom poor version.
 
 <img src="resources/iam_poor.png" width="200">
+
+## 3. Mi Card App
+
+ A simple app with my avatar and contacts designed using Card and ListTile widgets.
+
+<img src="resources/mi_card.png" width="200">
