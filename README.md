@@ -20,3 +20,21 @@ The app had no real function and did nothing more than display the fixed screen,
  A simple app with my avatar and contacts designed using Card and ListTile widgets.
 
 <img src="resources/mi_card.png" width="200">
+
+## 4. Dice App
+
+ Roll the dice on user tap. Stateful Widgets usage.
+
+<img src="resources/dice.png" width="200">
+
+## 5. Magic 8 Ball App
+
+Do you want to answer a question? Use Magic 8 Ball App!
+
+<img src="resources/magic_8_ball.png" width="200">
+
+## 6. Xylophone
+
+Xylophone simulation using a Flutter package to play sounds.
+
+<img src="resources/xylophone.png" width="200">
