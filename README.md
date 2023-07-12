@@ -41,7 +41,7 @@ Xylophone simulation using a Flutter package to play sounds.
 
 ## 7. Quizzler
 
-A quiz app with score keeper
+Quiz app with score keeper
 
 <img src="resources/quizzler.png" width="200">
 
