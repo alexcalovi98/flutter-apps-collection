@@ -38,3 +38,15 @@ Do you want to answer a question? Use Magic 8 Ball App!
 Xylophone simulation using a Flutter package to play sounds.
 
 <img src="resources/xylophone.png" width="200">
+
+## 7. Quizzler
+
+A quiz app with score keeper
+
+<img src="resources/quizzler.png" width="200">
+
+## 7. Destini
+
+Story app with navigation graph
+
+<img src="resources/destini.png" width="200">
