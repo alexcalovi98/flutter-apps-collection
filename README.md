@@ -50,3 +50,38 @@ Quiz app with score keeper
 Story app with navigation graph
 
 <img src="resources/destini.png" width="200">
+
+## 8. BMI Calculator
+
+A beautiful app to calculate BMI
+
+<img src="resources/bmi_1.png" width="200">
+<img src="resources/bmi_2.png" width="200">
+
+## 8. Clima
+
+Weather app showing data retrieved using OpenWeather API (https://openweathermap.org/api) and Localization Feature
+
+<img src="resources/clima.png" width="200">
+
+## 9. Coin Ticker
+
+Currency conversion to crypto (Bitcoin, Ethereum, etc.)  
+https://www.coinapi.io
+
+<img src="resources/coin_ticker.png" width="200">
+
+## 10. Flash Chat
+
+A chat app built on Firebase using Authentication and Database Firestore.
+
+<img src="resources/flash_chat_1.png" width="200">
+<img src="resources/flash_chat_2.png" width="200">
+
+## 11. Todoey
+
+Todo tasks
+
+<img src="resources/todoey_1.png" width="200">
+<img src="resources/todoey_2.png" width="200">
+
